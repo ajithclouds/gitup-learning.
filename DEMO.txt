@@ -1,3 +1,19 @@
 console.log("HELLO WORLD");
 CONSOLE.LOG("THIS IS GUVI");
 IT IS CODE STRUCTURE
+
+
+
+1.https://pythontutor.com/visualize.html#mode=edit
+2.https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
+3.https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+4.https://www.pastiebin.com/64aa748f41432
+5.https://www.pastiebin.com/64b2635f092f4
+6.https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round
+7.https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed
+8.https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+9.https://www.pastiebin.com/64ce0f6c2af02
+
+html
+1.https://www.pastiebin.com/64e082eae06bd
+2.https://www.pastiebin.com/64e082eae06bd

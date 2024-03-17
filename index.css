@@ -1,6 +1,20 @@
-.main {
-    background-color: orange;
+body{
+    background-color: blanchedalmond;
 }
-.main1 {
-    background-color: yellow;
+.box-part{
+    background-color: white;
+    margin-top:60px;
+    padding:30px 10px;
+}
+.fa{
+    color: blue;
+}
+a{
+  border-bottom: 1px solid blue;
+}
+p{
+    margin-top: 20px;
+}
+.box{
+    padding: 60px 0px;
 }

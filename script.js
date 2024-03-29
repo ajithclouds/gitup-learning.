@@ -31,7 +31,7 @@ setTimeout(()=>{
                             span.innerHTML=count
                             setTimeout(()=>{
                                 count=count-1
-                                span.innerHTML="Happy Independance Day"
+                                span.innerHTML="HAPPY BIRTH DAY DEENA "
                                 
                             },1000)  
                         },1000)  

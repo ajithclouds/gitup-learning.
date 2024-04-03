@@ -1,0 +1,222 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+
+}
+nav{
+    background-color: white;
+    font-size: 20px;
+    width: 100%;
+    display: flex;
+   
+}
+nav ul{
+    padding-top: 30px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+nav ul li{
+    display: inline-block;
+    margin-bottom: 20px;
+}
+ul li p{
+    margin-left: 80px;
+    font-size: 25px;
+}
+ul li i{
+    margin-left: 70px;
+    font-size: 25px;
+
+}
+nav button{
+  background-color: white;
+  color:rgb(255, 204, 0) ;
+  border-color:rgb(255, 204, 0);
+  width: 600;
+  border-radius:10px;
+  margin-left: 20px;
+  font-size: 20px;
+  position: relative;
+
+}
+
+nav div.logo{
+  
+        font-family:  "Montez", cursive; ;
+        font-weight: 600;
+        padding-top: 15px;
+        font-size: 40px;
+        padding-left: 30px;
+        color:rgb(255, 204, 0) ;
+}
+/* nav bar end */
+/* home page start */
+section{
+  
+    background-color:rgb(255, 204, 0);
+    margin: 0;
+    padding: 0;   
+ }    
+.head{
+    margin-top: 17px;
+    margin-left: 40px;
+}
+
+ section h1{
+    color: white;
+    font-family: cursive;
+    font-size: 80px;
+    font-size: 60px;
+    width: 400;
+    font-weight: 300;
+    position: relative;
+    left: 150px;
+    top: 110px;
+}
+section p{
+    font-size: 20px;
+    width: 600;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    position: relative;
+    left: 150px;
+    top: 120px;
+}
+ section form {
+    width: 700px;
+    height: 180px;
+    background-color: white;
+    margin-left: 150px;
+   position: relative;
+   top: 120px;
+
+}
+form input{
+    border-radius: 5px;
+    border-color: white;
+    border-top: aliceblue;
+    border-left: white;
+    color:grey;
+     background-color: rgba(230, 225, 225, 0.915);
+     width: 400px;
+     height: 40px;
+     margin-left: 20px;
+     font-size: 20px;
+     position: relative;
+     top: 30px;
+     padding-left: 25px;
+ 
+ }
+ form button{
+     margin-top: 40px;
+     width: 250px;
+     height: 50px;
+     background-color: red;
+     font-size: 20px;
+     border-radius: 8px;
+     position: relative;
+     top: 30px;
+    color: white;
+     
+ }
+ form ul{
+     padding-top: 10px;
+
+    }
+
+
+/* home page end */
+.container img{
+    width: 300px;
+    height: 250px;
+    
+    margin-top: 30px;
+    
+}
+.container button{
+    color: red;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: rgb(247, 197, 197);
+    box-shadow: none;
+    width: 600;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
+.col-md-4 {
+display: flex;
+align-items: center;
+}
+.col-md-4 p{
+    margin-top: 5pc;
+}
+.col-md-2 {
+  
+  flex: 8.33%;
+ padding-top: 20px;
+  align-items: center;
+  justify-content: space-between;
+ 
+}
+
+.card-img-2{
+  margin-bottom: 500px;
+}
+
+.header{
+    position: relative;
+    left: 200px;
+    top: 50px;
+    font-weight: 800;
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(18, 16, 16);
+}
+.footer{
+    padding: 5px;
+
+}
+.col{
+    width: 25px;
+}
+.col h2{
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    padding-top: 90px;
+    padding-bottom: 90px;
+
+}
+.col ul {
+    margin-left: 30px;
+}
+.col ul li {
+ 
+    text-decoration: none;
+}
+.col ul li a{
+    color: white;
+   text-decoration: none;
+}
+.col h3{
+
+    color: white;
+    font-size: 20px;
+    margin-top: 70px;
+    font-weight: 400;
+    position: relative;
+    top: 30px;
+    right: 60px;
+}
